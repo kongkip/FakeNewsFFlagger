@@ -10,7 +10,7 @@ After Modeling I deployed the app using Flask for backend, HTML, CSS, JS for fro
 Clone the repository with the following command.
 
 ```bash
-git clone 
+git clone https://github.com/kongaevans/FakeNewsFFlagger.git
 ```
 
 ## Usage
