@@ -14,13 +14,14 @@ git clone https://github.com/kongaevans/FakeNewsFFlagger.git
 ```
 
 ## Usage
-Run the following command from bash inside the project
+cd into the project then run the following command from bash inside the project.
 ```bash
-Pyton app.py 
+python app.py 
 ```
 ## Screenshots
+ How the app home page looks like.
 ![App Home](screenshots/Screenshot_from_2019-05-03_13-44-38.png)
-
+ Results page
 ![Prediction page](screenshots/prediction_page.png)
 
 ## Contributing
