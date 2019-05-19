@@ -18,6 +18,8 @@ cd into the project then run the following command from bash inside the project.
 ```bash
 python app.py 
 ```
+[Link to live APP](https://fakenewsflagger.herokuapp.com/).
+
 ## Screenshots
  How the app home page looks like.
 ![App Home](screenshots/Screenshot_from_2019-05-03_13-44-38.png)
